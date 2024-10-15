@@ -3,6 +3,7 @@ layout: cv
 title: Grzegorz Bartoszek
 ---
 # Grzegorz Bartoszek
+
 **Software developer**
 
 <div id="webaddress">
