@@ -6,9 +6,12 @@ title: Grzegorz Bartoszek
 **Software developer**
 
 <div id="webaddress">
-<p href="grze.bartoszek@gmail.com">grze.bartoszek@gmail.com</p>
-<p href="https://www.linkedin.com/in/grzegorz-bartoszek-3b526952/">LinkedIn</p>
-<p href="https://github.com/g-bartoszek">GitHub</p>
+<a href="grze.bartoszek@gmail.com">grze.bartoszek@gmail.com</a>
+<br/>
+<a href="https://www.linkedin.com/in/grzegorz-bartoszek-3b526952/">LinkedIn</a>
+<br/>
+<a href="https://github.com/g-bartoszek">GitHub</a>
+<br/>
 </div>
 
 
