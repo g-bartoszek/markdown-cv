@@ -29,7 +29,7 @@ title: Grzegorz Bartoszek
 `2020-2021`
 **SENIOR SOFTWARE ENGINEER**
 
-**Luxoft, Remote, **
+**Luxoft, Remote**
 * Working for Metaswitch/Microsoft, implementing a 5G network core
 * The project consisted of services implemented in Rust according to openapi/swagger specs and orchestrated by Kubernetes
 * Integration tests in Python
