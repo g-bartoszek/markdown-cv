@@ -3,12 +3,12 @@ layout: cv
 title: Grzegorz Bartoszek
 ---
 # Grzegorz Bartoszek
-### Software developer
+**Software developer**
 
 <div id="webaddress">
-<a href="grze.bartoszek@gmail.com">grze.bartoszek@gmail.com</a>
-<a href="https://www.linkedin.com/in/grzegorz-bartoszek-3b526952/">LinkedIn</a>
-<a href="https://github.com/g-bartoszek">GitHub</a>
+<p href="grze.bartoszek@gmail.com">grze.bartoszek@gmail.com</p>
+<p href="https://www.linkedin.com/in/grzegorz-bartoszek-3b526952/">LinkedIn</p>
+<p href="https://github.com/g-bartoszek">GitHub</p>
 </div>
 
 
@@ -43,14 +43,12 @@ title: Grzegorz Bartoszek
 * Implemented a 2D shapes editor in C#
 
 ## Courses
-* Applied Data Science with Python ([certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/W7YXMPCLD4P4))
+* **Applied Data Science with Python** ([certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/W7YXMPCLD4P4))
 
 ## Education
 
 ### MASTER'S DEGREE IN COMPUTER SCIENCE
 #### Wrocław University of Technology, 2005–2010
-
-
 
 <!-- ### Footer
 
