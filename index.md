@@ -18,6 +18,7 @@ title: Grzegorz Bartoszek
 ## Experience
 
 **SENIOR SOFTWARE ENGINEER**
+
 **Altimetrik, Remote, 2021-now**
 * Developing payment terminal system for PayPal
 * Implementing payment terminal backend consisting of AWS lambda functions in Rust
@@ -26,22 +27,26 @@ title: Grzegorz Bartoszek
 * Extending PayPal backend services in Java and Ruby
 
 **SENIOR SOFTWARE ENGINEER**
+
 **Luxoft, Remote, 2020-2021**
 * Working for Metaswitch/Microsoft, implementing a 5G network core
 * The project consisted of services implemented in Rust according to openapi/swagger specs and orchestrated by Kubernetes
 * Integration tests in Python
 
 **SENIOR SOFTWARE ENGINEER**
+
 **Thaumatec, Wrocław, 2016-2020**
 * Developing software for embedded biometric devices in C++ and Python
 * Created a C++ SDK for integrating the biometric device with other systems
 
 **SOFTWARE ENGINEER**
+
 **Nokia, Wrocław, 2010–2016**
 * Developing software for LTE network base stations
 * Provided trainings for other developers in subjects as C++, testing, TDD
 
 **STUDENT INTERNSHIP**
+
 **Techland, Wrocław, 07.2009**
 * Implemented a 2D shapes editor in C#
 
@@ -51,6 +56,7 @@ title: Grzegorz Bartoszek
 ## Education
 
 **MASTER'S DEGREE IN COMPUTER SCIENCE**
+
 **Wrocław University of Technology, 2005–2010**
 
 <!-- ### Footer
