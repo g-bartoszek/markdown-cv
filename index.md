@@ -1,91 +1,59 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Grzegorz Bartoszek
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Grzegorz Bartoszek
+### Software developer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="grze.bartoszek@gmail.com">grze.bartoszek@gmail.com</a>
+<a href="https://www.linkedin.com/in/grzegorz-bartoszek-3b526952/">LinkedIn</a>
+<a href="https://github.com/g-bartoszek">GitHub</a>
 </div>
 
 
-## Currently
+## Experience
 
-Standing on the shoulders of giants
+### SENIOR SOFTWARE ENGINEER
+#### Altimetrik, Remote, 2021-now
+* Developing payment terminal system for PayPal
+* Implementing payment terminal backend consisting of AWS lambda functions in Rust
+* Implementing payment terminal firmware in Rust
+* Designing and configuring AWS infrastructure: serverless framework, terraform, Lambda, DynamoDB, RDS, EventBridge, SQS
+* Extending PayPal backend services in Java and Ruby
 
-### Specialized in
+### SENIOR SOFTWARE ENGINEER
+#### Luxoft, Remote, 2020-2021
+* Working for Metaswitch/Microsoft, implementing a 5G network core
+* The project consisted of services implemented in Rust according to openapi/swagger specs and orchestrated by Kubernetes
+* Integration tests in Python
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### SENIOR SOFTWARE ENGINEER
+#### Thaumatec, Wrocław, 2016-2020
+* Developing software for embedded biometric devices in C++ and Python
+* Created a C++ SDK for integrating the biometric device with other systems
 
+### SOFTWARE ENGINEER
+#### Nokia, Wrocław, 2010–2016
+* Developing software for LTE network base stations
+* Provided trainings for other developers in subjects as C++, testing, TDD
 
-### Research interests
+### STUDENT INTERNSHIP
+#### Techland, Wrocław, 07.2009
+* Implemented a 2D shapes editor in C#
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+## Courses
+* Applied Data Science with Python ([certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/W7YXMPCLD4P4))
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+### MASTER'S DEGREE IN COMPUTER SCIENCE
+#### Wrocław University of Technology, 2005–2010
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: OCT 2024 -->
 
 
