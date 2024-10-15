@@ -4,7 +4,7 @@ title: Grzegorz Bartoszek
 ---
 # Grzegorz Bartoszek
 
-**Software developer**
+**Software Developer**
 
 <div id="webaddress">
 +48 600 640 654
