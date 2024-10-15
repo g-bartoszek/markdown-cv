@@ -59,9 +59,10 @@ title: Grzegorz Bartoszek
 
 ## Education
 
+`2005-2010`
 **MASTER'S DEGREE IN COMPUTER SCIENCE**
 
-**Wrocław University of Technology, 2005–2010**
+**Wrocław University of Technology**
 
 <!-- ### Footer
 
