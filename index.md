@@ -14,8 +14,8 @@ title: Grzegorz Bartoszek
 
 ## Experience
 
-**SENIOR SOFTWARE ENGINEER**
-**Altimetrik, Remote, 2021-now**
+SENIOR SOFTWARE ENGINEER
+Altimetrik, Remote, 2021-now
 * Developing payment terminal system for PayPal
 * Implementing payment terminal backend consisting of AWS lambda functions in Rust
 * Implementing payment terminal firmware in Rust
