@@ -21,7 +21,7 @@ title: Grzegorz Bartoszek
 
 **Altimetrik, Remote**
 * Developing payment terminal system for PayPal
-* Implementing payment terminal backend consisting of AWS lambda functions in Rust
+* Implementing payment processing and terminal management backends consisting of AWS lambda functions in Rust
 * Implementing payment terminal firmware in Rust
 * Designing and configuring AWS infrastructure: serverless framework, terraform, Lambda, DynamoDB, RDS, EventBridge, SQS
 * Extending PayPal backend services in Java and Ruby
